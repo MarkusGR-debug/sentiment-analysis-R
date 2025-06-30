@@ -23,7 +23,7 @@ A detailed report outlining:
 - Monthly trends in emotional tone
 - Interpretation of results
 
-...can be found in the [`doc/Report.docx`](./doc/Report.docx) file.
+...can be found in [`Sentiment Analysis/doc/Sentiment Analysis.docx`](Sentiment%20Analysis/doc/Sentiment%20Analysis.docx).
 
 ## ⚙️ Setup Notes
 
