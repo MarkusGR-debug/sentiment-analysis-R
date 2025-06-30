@@ -23,8 +23,7 @@ A detailed report outlining:
 - Monthly trends in emotional tone
 - Interpretation of results
 
-...can be found in [`Sentiment Analysis/doc/Sentiment Analysis.docx`](Sentiment%20Analysis/doc/Sentiment%20Analysis.docx).
-
+...can be found in the [report](Sentiment%20Analysis/doc/Sentiment%20Analysis.docx).
 ## ⚙️ Setup Notes
 
 If you want to test or run this locally, make sure to install required R dependencies, and for systems using Linux, run:
