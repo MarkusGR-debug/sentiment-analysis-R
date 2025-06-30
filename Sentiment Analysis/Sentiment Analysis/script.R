@@ -5,7 +5,7 @@ require_packages(c(
   "dplyr",
   "sentimentr",
   "rvest"
-))
+)
 
 # Function to extract titles and descriptions from RSS feed
 extract_titles_descriptions <- function(url) {
