@@ -1,0 +1,6 @@
+
+Summary statistics for descriptions ( 2024-04-29 ):
+    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+
+Summary statistics for descriptions ( 2024-04-29 ):
+  0.1059  0.1638  0.2216  0.2216  0.2795  0.3374 

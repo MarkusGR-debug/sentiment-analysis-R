@@ -1,0 +1,4 @@
+Summary statistics for titles ( 2024-04-13 ):
+     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+Summary statistics for titles ( 2024-04-13 ):
+ -0.20000 -0.08064  0.03873  0.03873  0.15809  0.27745 
